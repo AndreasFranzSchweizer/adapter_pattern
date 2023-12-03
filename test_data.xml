@@ -1,0 +1,12 @@
+<data>
+    <person>
+        <name>John Doe</name>
+        <age>25</age>
+        <address>123 Main Street</address>
+    </person>
+    <person>
+        <name>Jane Smith</name>
+        <age>30</age>
+        <address>456 Oak Avenue</address>
+    </person>
+</data>
